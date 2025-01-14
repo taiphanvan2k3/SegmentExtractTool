@@ -1,1 +1,4 @@
 // Bỏ video vào folder này
+
+// Đặt tên video
+// squat_lowerbar_tuan
