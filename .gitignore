@@ -1,4 +1,4 @@
 extracted_segments
-video_extraction
+frames_extraction
 data
 assets/**/*.mp4
